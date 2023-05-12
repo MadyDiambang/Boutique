@@ -1,0 +1,54 @@
+body {
+  background-color:wheat;
+}
+.centre{
+    text-align: left;
+  }
+  .soleil {
+    text-align: left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    width: 900px;
+}
+.container-fluid{
+    text-align: center;
+  }
+  .nav-item{
+    text-align: center;
+  }
+  .nav-link{
+    text-align: center;
+  }
+.container-fluid {
+  text-align: center;
+}
+.row{
+  text-align: center;
+}
+.produit{
+  text-align: center;
+  height: 510px;
+  width: 900px;
+}
+.fabriquer{
+  text-align: left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 510px;
+  width: 900px;
+}
+
+h2.titre1 {
+  font-size:60pt; color:black
+}
+
+h2.titre2 {
+  font-size:36pt; color:black
+}
+
+p.justifie {
+  text-align: justify;
+}
